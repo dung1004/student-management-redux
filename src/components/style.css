@@ -1,0 +1,13 @@
+.iconSearch {
+    /* position: absolute;
+    right: 0;
+    z-index: 1; */
+    opacity: .8;
+    background-color: #30ff60;
+}
+.inputSearch:focus {
+    background: transparent;
+}
+td.flex {
+    display: flex
+} 

@@ -1,0 +1,7 @@
+export const LIST_STUDENTS = 'LIST_STUDENTS';
+export const ADD_STUDENT = 'ADD_STUDENT';
+export const DELETE_STUDENT = 'DELETE_STUDENT';
+export const EDIT_STUDENT = 'EDIT_STUDENT';
+export const UPDATE_STUDENT = 'UPDATE_STUDENT';
+export const OPEN_FORM_RESET = 'OPEN_FORM_RESET';
+export const ON_SEARCH = 'ON_SEARCH';
